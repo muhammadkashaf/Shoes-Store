@@ -1,3 +1,5 @@
+Bootcamp 2020 Project 3: Shoe Store
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts.
